@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Object-detector-React-Tensorflow/static/css/main.4d577064.css",
+    "main.js": "/Object-detector-React-Tensorflow/static/js/main.bd3a4599.js",
+    "static/js/787.53171d02.chunk.js": "/Object-detector-React-Tensorflow/static/js/787.53171d02.chunk.js",
+    "static/media/logo.svg": "/Object-detector-React-Tensorflow/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Object-detector-React-Tensorflow/index.html",
+    "main.4d577064.css.map": "/Object-detector-React-Tensorflow/static/css/main.4d577064.css.map",
+    "main.bd3a4599.js.map": "/Object-detector-React-Tensorflow/static/js/main.bd3a4599.js.map",
+    "787.53171d02.chunk.js.map": "/Object-detector-React-Tensorflow/static/js/787.53171d02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d577064.css",
+    "static/js/main.bd3a4599.js"
+  ]
+}
